@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    width: 50%;
+    background-color: #5e75e8;
+    margin:50px auto;
+    color: azure;
+    border-radius: 5px;
+    padding: 15px;
+}
+h2, h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    background-color: #5e75e8;;
+    color: azure;
+}
+
+li {
+    font-size: 1.5rem;
+    padding-bottom: 15px;
+    padding-top: 15px;
+   
+}
+
+p {
+   font-size: 1.5rem; 
+   padding: 15px;
+}
+footer {
+    text-align: center;
+    background-color: #5e75e8;;
+    color: azure;
+    margin: 0px;
+    padding: 15px;
+}
